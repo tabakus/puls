@@ -1,7 +1,6 @@
 {
   "name": "uber",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,14 @@
     "gulp-cli": "^2.3.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabakus/puls.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tabakus/puls/issues"
+  },
+  "homepage": "https://github.com/tabakus/puls#readme",
+  "description": ""
 }
